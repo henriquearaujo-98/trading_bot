@@ -1,0 +1,77 @@
+2024-07-22 21:55:13 LogWrapper init() ./logs/main.log
+2024-07-22 21:55:13 Bot started with Trade Settings:
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.04, 'mingain': 0.06, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.04, 'mingain': 0.06, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0006, 'riskreward': 1.5}
+
+2024-07-22 21:55:15 Bot started
+2024-07-22 22:00:04 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP', 'EUR_USD', 'USD_JPY', 'USD_CHF', 'AUD_USD', 'USD_CAD', 'NZD_USD']
+2024-07-22 22:00:04 Trade Decision: TradeDecision(): Decision:0 on pair GBP_CHF dir:0 gain:1.2082 sl:0.0000 tp:0.0000
+2024-07-22 22:00:04 Trade Decision: TradeDecision(): Decision:0 on pair EUR_CHF dir:0 gain:1.0172 sl:0.0000 tp:0.0000
+2024-07-22 22:00:05 Trade Decision: TradeDecision(): Decision:0 on pair GBP_JPY dir:0 gain:213.1164 sl:0.0000 tp:0.0000
+2024-07-22 22:00:05 Trade Decision: TradeDecision(): Decision:0 on pair GBP_USD dir:0 gain:1.3578 sl:0.0000 tp:0.0000
+2024-07-22 22:00:06 Trade Decision: TradeDecision(): Decision:0 on pair EUR_GBP dir:0 gain:0.8842 sl:0.0000 tp:0.0000
+2024-07-22 22:00:06 Trade Decision: TradeDecision(): Decision:0 on pair EUR_USD dir:0 gain:1.1435 sl:0.0000 tp:0.0000
+2024-07-22 22:00:06 Trade Decision: TradeDecision(): Decision:0 on pair USD_JPY dir:0 gain:164.8059 sl:0.0000 tp:0.0000
+2024-07-22 22:00:07 Trade Decision: TradeDecision(): Decision:0 on pair USD_CHF dir:0 gain:0.9341 sl:0.0000 tp:0.0000
+2024-07-22 22:00:07 Trade Decision: TradeDecision(): Decision:0 on pair AUD_USD dir:0 gain:0.6975 sl:0.0000 tp:0.0000
+2024-07-22 22:00:08 Trade Decision: TradeDecision(): Decision:0 on pair USD_CAD dir:0 gain:1.4444 sl:0.0000 tp:0.0000
+2024-07-22 22:00:08 Trade Decision: TradeDecision(): Decision:0 on pair NZD_USD dir:0 gain:0.6279 sl:0.0000 tp:0.0000
+2024-07-22 22:05:08 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP', 'EUR_USD', 'USD_JPY', 'USD_CHF', 'AUD_USD', 'USD_CAD', 'NZD_USD']
+2024-07-22 22:05:08 Trade Decision: TradeDecision(): Decision:0 on pair GBP_CHF dir:0 gain:1.2080 sl:0.0000 tp:0.0000
+2024-07-22 22:05:08 Trade Decision: TradeDecision(): Decision:0 on pair EUR_CHF dir:0 gain:1.0172 sl:0.0000 tp:0.0000
+2024-07-22 22:05:09 Trade Decision: TradeDecision(): Decision:0 on pair GBP_JPY dir:0 gain:213.0996 sl:0.0000 tp:0.0000
+2024-07-22 22:05:09 Trade Decision: TradeDecision(): Decision:0 on pair GBP_USD dir:0 gain:1.3578 sl:0.0000 tp:0.0000
+2024-07-22 22:05:10 Trade Decision: TradeDecision(): Decision:0 on pair EUR_GBP dir:0 gain:0.8843 sl:0.0000 tp:0.0000
+2024-07-22 22:05:10 Trade Decision: TradeDecision(): Decision:0 on pair EUR_USD dir:0 gain:1.1435 sl:0.0000 tp:0.0000
+2024-07-22 22:05:11 Trade Decision: TradeDecision(): Decision:0 on pair USD_JPY dir:0 gain:164.8048 sl:0.0000 tp:0.0000
+2024-07-22 22:05:11 Trade Decision: TradeDecision(): Decision:0 on pair USD_CHF dir:0 gain:0.9342 sl:0.0000 tp:0.0000
+2024-07-22 22:05:12 Trade Decision: TradeDecision(): Decision:0 on pair AUD_USD dir:0 gain:0.6976 sl:0.0000 tp:0.0000
+2024-07-22 22:05:12 Trade Decision: TradeDecision(): Decision:0 on pair USD_CAD dir:0 gain:1.4444 sl:0.0000 tp:0.0000
+2024-07-22 22:05:12 Trade Decision: TradeDecision(): Decision:0 on pair NZD_USD dir:0 gain:0.6279 sl:0.0000 tp:0.0000
+2024-07-22 22:10:12 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP', 'EUR_USD', 'USD_JPY', 'USD_CHF', 'AUD_USD', 'USD_CAD', 'NZD_USD']
+2024-07-22 22:10:12 Trade Decision: TradeDecision(): Decision:0 on pair GBP_CHF dir:0 gain:1.2080 sl:0.0000 tp:0.0000
+2024-07-22 22:10:13 Trade Decision: TradeDecision(): Decision:0 on pair EUR_CHF dir:0 gain:1.0173 sl:0.0000 tp:0.0000
+2024-07-22 22:10:13 Trade Decision: TradeDecision(): Decision:0 on pair GBP_JPY dir:0 gain:213.1815 sl:0.0000 tp:0.0000
+2024-07-22 22:10:14 Trade Decision: TradeDecision(): Decision:0 on pair GBP_USD dir:0 gain:1.3579 sl:0.0000 tp:0.0000
+2024-07-22 22:10:14 Trade Decision: TradeDecision(): Decision:0 on pair EUR_GBP dir:0 gain:0.8843 sl:0.0000 tp:0.0000
+2024-07-22 22:10:14 Trade Decision: TradeDecision(): Decision:0 on pair EUR_USD dir:0 gain:1.1437 sl:0.0000 tp:0.0000
+2024-07-22 22:10:15 Trade Decision: TradeDecision(): Decision:0 on pair USD_JPY dir:0 gain:164.8395 sl:0.0000 tp:0.0000
+2024-07-22 22:10:15 Trade Decision: TradeDecision(): Decision:0 on pair USD_CHF dir:0 gain:0.9340 sl:0.0000 tp:0.0000
+2024-07-22 22:10:16 Trade Decision: TradeDecision(): Decision:0 on pair AUD_USD dir:0 gain:0.6976 sl:0.0000 tp:0.0000
+2024-07-22 22:10:16 Trade Decision: TradeDecision(): Decision:0 on pair USD_CAD dir:0 gain:1.4442 sl:0.0000 tp:0.0000
+2024-07-22 22:10:16 Trade Decision: TradeDecision(): Decision:0 on pair NZD_USD dir:0 gain:0.6276 sl:0.0000 tp:0.0000
+2024-07-22 22:15:02 process_candles triggered:['EUR_CHF', 'GBP_JPY', 'EUR_USD', 'USD_JPY', 'AUD_USD', 'USD_CAD', 'NZD_USD']
+2024-07-22 22:15:02 Trade Decision: TradeDecision(): Decision:0 on pair EUR_CHF dir:0 gain:1.0173 sl:0.0000 tp:0.0000
+2024-07-22 22:15:03 Trade Decision: TradeDecision(): Decision:0 on pair GBP_JPY dir:0 gain:213.1962 sl:0.0000 tp:0.0000
+2024-07-22 22:15:03 Trade Decision: TradeDecision(): Decision:0 on pair EUR_USD dir:0 gain:1.1437 sl:0.0000 tp:0.0000
+2024-07-22 22:15:04 Trade Decision: TradeDecision(): Decision:0 on pair USD_JPY dir:0 gain:164.8479 sl:0.0000 tp:0.0000
+2024-07-22 22:15:04 Trade Decision: TradeDecision(): Decision:0 on pair AUD_USD dir:0 gain:0.6976 sl:0.0000 tp:0.0000
+2024-07-22 22:15:04 Trade Decision: TradeDecision(): Decision:0 on pair USD_CAD dir:0 gain:1.4442 sl:0.0000 tp:0.0000
+2024-07-22 22:15:05 Trade Decision: TradeDecision(): Decision:0 on pair NZD_USD dir:0 gain:0.6278 sl:0.0000 tp:0.0000
+2024-07-22 22:15:16 process_candles triggered:['GBP_CHF', 'GBP_USD', 'EUR_GBP', 'USD_CHF']
+2024-07-22 22:15:17 Trade Decision: TradeDecision(): Decision:0 on pair GBP_CHF dir:0 gain:1.2080 sl:0.0000 tp:0.0000
+2024-07-22 22:15:17 Trade Decision: TradeDecision(): Decision:0 on pair GBP_USD dir:0 gain:1.3580 sl:0.0000 tp:0.0000
+2024-07-22 22:15:18 Trade Decision: TradeDecision(): Decision:0 on pair EUR_GBP dir:0 gain:0.8843 sl:0.0000 tp:0.0000
+2024-07-22 22:15:18 Trade Decision: TradeDecision(): Decision:0 on pair USD_CHF dir:0 gain:0.9340 sl:0.0000 tp:0.0000
+2024-07-22 22:20:02 process_candles triggered:['GBP_USD', 'USD_JPY', 'USD_CHF']
+2024-07-22 22:20:02 Trade Decision: TradeDecision(): Decision:0 on pair GBP_USD dir:0 gain:1.3579 sl:0.0000 tp:0.0000
+2024-07-22 22:20:03 Trade Decision: TradeDecision(): Decision:0 on pair USD_JPY dir:0 gain:164.8332 sl:0.0000 tp:0.0000
+2024-07-22 22:20:03 Trade Decision: TradeDecision(): Decision:0 on pair USD_CHF dir:0 gain:0.9341 sl:0.0000 tp:0.0000
+2024-07-22 22:20:15 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'EUR_GBP', 'EUR_USD', 'AUD_USD', 'USD_CAD', 'NZD_USD']
+2024-07-22 22:20:15 Trade Decision: TradeDecision(): Decision:0 on pair GBP_CHF dir:0 gain:1.2082 sl:0.0000 tp:0.0000
+2024-07-22 22:20:16 Trade Decision: TradeDecision(): Decision:0 on pair EUR_CHF dir:0 gain:1.0175 sl:0.0000 tp:0.0000
+2024-07-22 22:20:16 Trade Decision: TradeDecision(): Decision:0 on pair GBP_JPY dir:0 gain:213.1773 sl:0.0000 tp:0.0000
+2024-07-22 22:20:16 Trade Decision: TradeDecision(): Decision:0 on pair EUR_GBP dir:0 gain:0.8843 sl:0.0000 tp:0.0000
+2024-07-22 22:20:17 Trade Decision: TradeDecision(): Decision:0 on pair EUR_USD dir:0 gain:1.1437 sl:0.0000 tp:0.0000
+2024-07-22 22:20:17 Trade Decision: TradeDecision(): Decision:0 on pair AUD_USD dir:0 gain:0.6976 sl:0.0000 tp:0.0000
+2024-07-22 22:20:17 Trade Decision: TradeDecision(): Decision:0 on pair USD_CAD dir:0 gain:1.4442 sl:0.0000 tp:0.0000
+2024-07-22 22:20:18 Trade Decision: TradeDecision(): Decision:0 on pair NZD_USD dir:0 gain:0.6278 sl:0.0000 tp:0.0000
